@@ -1,0 +1,6 @@
+{
+  "name": "ID Quote Pro - Interior Design Quotation System",
+  "description": "Automated interior design quotation generator and Excel rate manager tailored for HDB, Condo, and Landed residential projects with itemized trade automation, progressive billing, and AI scope assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
